@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <div>
-    <img alt="Logo do python" title="#logo" src=".github/logo.jpg" width="500"/>
+    <img alt="Logo do python" title="#logo" src=".github/logo.svg" width="500"/>
   <div>
 </h1>
 
