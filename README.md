@@ -21,7 +21,7 @@ O banco de dados utilizado é um arquivo SQLite (`database.db`), que armazena in
 
 ## 📝 Documentação
 
-Documentação do projeto desenvolvido na primeira aula: [link](https://grizzly-amaranthus-f6a.notion.site/Projeto-1-Python-Puro-15b6cf8ea89f80c9a3e9d2882eed45e6).
+Documentação do projeto desenvolvido na primeira aula: [link do notion](https://grizzly-amaranthus-f6a.notion.site/Projeto-1-Python-Puro-15b6cf8ea89f80c9a3e9d2882eed45e6).
 
 ## 🛠 Tecnologias Utilizadas
 
