@@ -5,15 +5,6 @@
 </h1>
 
 
-<p align="center">
-
-[Sobre o Projeto](#sobre-o-projeto) |
-[Documentação](#documentação) |
-[Tecnologias Utilizadas](#tecnologias-utilizadas) |
-[Como executar o projeto](#como-executar-o-projeto) | 
-[Autor](#autor) | 
-[Licença](#licença)
-</p>
 
 ## 💻 Sobre o Projeto
 
